@@ -3,7 +3,7 @@
 
 # TESTNET
 https://testnet.icn.global/
-minimas faucet ETHsepolia o.o1
+minimal faucet ETHsepolia o.o1
 ## Tasks
 - Hubungkan dompet
 - Paspor uji coba ICN Mint
