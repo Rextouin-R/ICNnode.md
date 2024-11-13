@@ -1,6 +1,17 @@
 # Join Telegram  ♾︎ 
 [![Static Badge](https://img.shields.io/badge/Telegram-Airdrop◾unlimited-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/UNLXairdop)
 
+# TESTNET
+https://testnet.icn.global/
+## Tasks
+- Hubungkan dompet
+- Paspor uji coba ICN Mint
+- Ikuti ICN di X
+- Delegasikan paspor ICN
+- Unduh aplikasi ON
+- Instal aplikasi ON 
+- Jalankan node di linux/mac/windows
+
 
 # ICN node
 pastikan kalian menggunakan wallet baru dan ambil 'privatekey' kalian
