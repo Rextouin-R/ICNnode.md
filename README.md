@@ -19,7 +19,7 @@ pastikan kalian menggunakan wallet baru dan ambil 'privatekey' kalian
 lalu hapus bagian `<private_key>` dan paste `private_key` kalian
 
 Contoh seperti ini 
-`curl -o- https://console.icn.global/downloads/install/start.sh | bash -s -- -p h8634tigslh456uhkduzfw4562473983sfnb****************** (lalu enter)
+`curl -o- https://console.icn.global/downloads/install/start.sh | bash -s -- -p h8634tigslh456uhkduzfw4562473983sfnb******************` (lalu enter)
 
 ## Untuk linux/mac
 
