@@ -15,7 +15,7 @@ https://testnet.icn.global/
 
 # ICN node
 pastikan kalian menggunakan wallet baru dan ambil 'privatekey' kalian
-lalu hapus bagian `<private_key` dan paste `private_key` kalian
+lalu hapus bagian `<private_key>` dan paste `private_key` kalian
 
 ## Untuk linux/mac
 
